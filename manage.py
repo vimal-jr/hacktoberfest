@@ -40,7 +40,8 @@ with open('CONTRIBUTORS.md', 'r+') as file:
     file.seek(0)
     file.truncate()
     file.writelines(new_file_data)
-
+print("  ")
+print("hello world")
 
 # Sorts the list of contributors and saves to file
 # The real thing happens here.
