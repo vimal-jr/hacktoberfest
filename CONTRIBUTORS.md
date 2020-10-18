@@ -1302,6 +1302,10 @@ to explore life. Also, Python and Django Developer
 - Place: Wiener Neustadt, Austria
 - Bio: Computer Science Student
 - GitHub: [Konstantin](https://github.com/Kola50011)
+Name: VISHNU JAYAKUMAR
+Place: kerala,India
+Bio: A student who entusiast in technology.
+GitHub: vishnu jayakumar
 
 #### Name: [Kshitiz Khanal](https://github.com/kshitizkhanal7)
 - Place: Kathmandu, Nepal
@@ -2437,3 +2441,8 @@ Noida
  - Place : India
  - Bio : YouTuber
  - Github : [Sreeram Venkitesh](https://github.com/fillerInk)
+
+#### Name: [Vimal Vimal](https://github.com/vimal-jr)
+ - Place : India
+ - Bio : Student
+ - Github : [Vimal](https://github.com/vimal-jr)
